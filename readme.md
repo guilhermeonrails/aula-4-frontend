@@ -7,7 +7,7 @@ O JavaScript é uma linguagem baseada em protótipos, multi-paradigma e dinâmic
 Para esta aula, é necessário:
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
-- Extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Extensão Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 # Sobre o projeto...
 
